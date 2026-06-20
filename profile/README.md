@@ -2,7 +2,7 @@
 
 <!-- Replace this with your Slot Zero banner image -->
 
-![Slot Zero Security Banner](https://github.com/SlotZeroSecurity/.github/blob/main/profile/Slot%20Zero%20Logo.png)
+![Slot Zero Security Banner](https://github.com/SlotZeroSecurity/.github/blob/main/profile/Slot%20Zero%20Cover.png)
 
 # Slot Zero Security
 
